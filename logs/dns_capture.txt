@@ -1,0 +1,97 @@
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_unify._gdx_unify._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_extend._gdx_extend._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_unify._gdx_unify._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_extend._gdx_extend._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_unify._gdx_unify._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_extend._gdx_extend._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_unify._gdx_unify._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_extend._gdx_extend._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'stream-production.avcdn.net.'" 
+DNS Packet from 192.168.1.1
+DNS Data: Ether / IP / UDP / DNS Ans "b'stream-production.avcdn.net.akamaized.net.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_unify._gdx_unify._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_extend._gdx_extend._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_unify._gdx_unify._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_unify._gdx_unify._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_extend._gdx_extend._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_unify._gdx_unify._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_extend._gdx_extend._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_unify._gdx_unify._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'DESKTOP-VVJVQU3(7F2D)_extend._gdx_extend._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'_googlecast._tcp.local.'" 
+DNS Packet from 192.168.1.5
+Drop packet due to rate limit: 192.168.1.5
+DNS Data: Ether / IP / UDP / DNS Qry "b'stream-production.avcdn.net.'" 
+DNS Packet from 192.168.1.1
+Drop packet due to rate limit: 192.168.1.1
+DNS Data: Ether / IP / UDP / DNS Ans "b'stream-production.avcdn.net.akamaized.net.'" 

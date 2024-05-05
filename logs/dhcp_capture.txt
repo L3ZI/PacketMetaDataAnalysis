@@ -1,0 +1,44 @@
+DHCP Packet Detected:
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Request
+DHCP Packet Detected:
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Request
+DHCP Packet Detected:
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Ack
+DHCP Packet Detected:
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Request
+DHCP Packet Detected:
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Request
+DHCP Packet Detected:
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Ack
+DHCP Packet Detected:
+Source IP: 00:42:38:b5:44:15
+Destination IP: ff:ff:ff:ff:ff:ff
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Request
+DHCP Packet Detected:
+Source IP: 00:42:38:b5:44:15
+Destination IP: ff:ff:ff:ff:ff:ff
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Request
+DHCP Packet Detected:
+Source IP: 00:42:38:b5:44:15
+Destination IP: ff:ff:ff:ff:ff:ff
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Request
+DHCP Packet Detected:
+Source IP: 00:42:38:b5:44:15
+Destination IP: ff:ff:ff:ff:ff:ff
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Request
+DHCP Packet Detected:
+Source IP: 88:ce:fa:fe:86:bc
+Destination IP: ff:ff:ff:ff:ff:ff
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Ack
+DHCP Packet Detected:
+Source IP: 00:42:38:b5:44:15
+Destination IP: ff:ff:ff:ff:ff:ff
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Request
+DHCP Packet Detected:
+Source IP: 00:42:38:b5:44:15
+Destination IP: ff:ff:ff:ff:ff:ff
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Request
+DHCP Packet Detected:
+Source IP: 88:ce:fa:fe:86:bc
+Destination IP: ff:ff:ff:ff:ff:ff
+DHCP Data: Ether / IP / UDP / BOOTP / DHCP Ack

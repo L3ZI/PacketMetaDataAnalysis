@@ -1,0 +1,69 @@
+ARP Packet from 192.168.1.4, packet summary: ARP who has 192.168.1.1 says 192.168.1.4	Source IP: , 192.168.1.4
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , Unknown
+ARP Packet from 192.168.1.1, packet summary: ARP is at 88:ce:fa:fe:86:bc says 192.168.1.1	Source IP: , 192.168.1.1
+Source MAC: , 88:ce:fa:fe:86:bc
+Hostname: , homerouter.cpe
+ARP Packet from 192.168.1.4, packet summary: ARP who has 192.168.1.0 says 192.168.1.4	Source IP: , 192.168.1.4
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , Unknown
+ARP Packet from 192.168.1.1, packet summary: ARP who has 192.168.1.5 says 192.168.1.1	Source IP: , 192.168.1.1
+Source MAC: , 88:ce:fa:fe:86:bc
+Hostname: , homerouter.cpe
+ARP Packet from 192.168.1.5, packet summary: ARP is at 00:42:38:b5:44:15 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.0 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.1 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.2 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.1, packet summary: ARP is at 88:ce:fa:fe:86:bc says 192.168.1.1	Source IP: , 192.168.1.1
+Source MAC: , 88:ce:fa:fe:86:bc
+Hostname: , homerouter.cpe
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.3 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.4 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.5 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:00:00:00:00:00
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP is at 00:42:38:b5:44:15 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.6 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.7 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.8 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.9 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.10 says 192.168.1.5	Source IP: , 192.168.1.5
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.1, packet summary: ARP who has 192.168.1.5 says 192.168.1.1	Source IP: , 192.168.1.1
+get arp ips: , [('192.168.1.1', '88:ce:fa:fe:86:bc', [])]
+Destination IP: , 192.168.1.5
+Source MAC: , 88:ce:fa:fe:86:bc
+Hostname: , homerouter.cpe
+ARP Packet from 192.168.1.5, packet summary: ARP is at 00:42:38:b5:44:15 says 192.168.1.5	Source IP: , 192.168.1.5
+get arp ips: , [('192.168.1.1', '88:ce:fa:fe:86:bc', [])]
+Destination IP: , 192.168.1.1
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
+ARP Packet from 192.168.1.5, packet summary: ARP who has 192.168.1.0 says 192.168.1.5	Source IP: , 192.168.1.5
+get arp ips: , [('192.168.1.1', '88:ce:fa:fe:86:bc', [])]
+Destination IP: , 192.168.1.0
+Source MAC: , 00:42:38:b5:44:15
+Hostname: , DESKTOP-VVJVQU3
