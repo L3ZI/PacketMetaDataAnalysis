@@ -18,7 +18,7 @@ def process_icmp_packet(packet):
             icmp_packets = [t for t in icmp_packets if current_time - t <= timedelta(seconds=1)]
 
             # Check if ICMP packet rate exceeds
-            print("Dropping ICMP packet due to rate limit")
+            print("Dropping ICMP packet due to rate limit..")
             pass
             # Print the size of each ICMP packet
             print(f"ICMP Packet Size: {len(packet)} bytes")
